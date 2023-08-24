@@ -1,0 +1,14 @@
+/home/vina/Projetos/Funcionario/Funcionario/bin/Debug/net7.0/Funcionario
+/home/vina/Projetos/Funcionario/Funcionario/bin/Debug/net7.0/Funcionario.deps.json
+/home/vina/Projetos/Funcionario/Funcionario/bin/Debug/net7.0/Funcionario.runtimeconfig.json
+/home/vina/Projetos/Funcionario/Funcionario/bin/Debug/net7.0/Funcionario.dll
+/home/vina/Projetos/Funcionario/Funcionario/bin/Debug/net7.0/Funcionario.pdb
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/Funcionario.AssemblyInfoInputs.cache
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/Funcionario.AssemblyInfo.cs
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/Funcionario.csproj.CoreCompileInputs.cache
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/Funcionario.dll
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/refint/Funcionario.dll
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/Funcionario.pdb
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/Funcionario.genruntimeconfig.cache
+/home/vina/Projetos/Funcionario/Funcionario/obj/Debug/net7.0/ref/Funcionario.dll

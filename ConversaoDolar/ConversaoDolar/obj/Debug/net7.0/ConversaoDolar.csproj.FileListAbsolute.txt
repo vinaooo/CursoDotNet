@@ -1,0 +1,14 @@
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/bin/Debug/net7.0/ConversaoDolar
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/bin/Debug/net7.0/ConversaoDolar.deps.json
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/bin/Debug/net7.0/ConversaoDolar.runtimeconfig.json
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/bin/Debug/net7.0/ConversaoDolar.dll
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/bin/Debug/net7.0/ConversaoDolar.pdb
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/ConversaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/ConversaoDolar.AssemblyInfoInputs.cache
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/ConversaoDolar.AssemblyInfo.cs
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/ConversaoDolar.csproj.CoreCompileInputs.cache
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/ConversaoDolar.dll
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/refint/ConversaoDolar.dll
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/ConversaoDolar.pdb
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/ConversaoDolar.genruntimeconfig.cache
+/home/vina/Projetos/ConversaoDolar/ConversaoDolar/obj/Debug/net7.0/ref/ConversaoDolar.dll

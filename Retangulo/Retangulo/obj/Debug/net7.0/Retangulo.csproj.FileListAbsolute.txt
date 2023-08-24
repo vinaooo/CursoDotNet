@@ -1,0 +1,14 @@
+/home/vina/Projetos/Retangulo/Retangulo/bin/Debug/net7.0/Retangulo
+/home/vina/Projetos/Retangulo/Retangulo/bin/Debug/net7.0/Retangulo.deps.json
+/home/vina/Projetos/Retangulo/Retangulo/bin/Debug/net7.0/Retangulo.runtimeconfig.json
+/home/vina/Projetos/Retangulo/Retangulo/bin/Debug/net7.0/Retangulo.dll
+/home/vina/Projetos/Retangulo/Retangulo/bin/Debug/net7.0/Retangulo.pdb
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/Retangulo.AssemblyInfoInputs.cache
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/Retangulo.AssemblyInfo.cs
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/Retangulo.csproj.CoreCompileInputs.cache
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/Retangulo.dll
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/refint/Retangulo.dll
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/Retangulo.pdb
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/Retangulo.genruntimeconfig.cache
+/home/vina/Projetos/Retangulo/Retangulo/obj/Debug/net7.0/ref/Retangulo.dll

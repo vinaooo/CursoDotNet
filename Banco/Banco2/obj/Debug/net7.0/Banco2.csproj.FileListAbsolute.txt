@@ -1,0 +1,14 @@
+/home/vina/Projetos/dotnet/Banco2/Banco2/bin/Debug/net7.0/Banco2
+/home/vina/Projetos/dotnet/Banco2/Banco2/bin/Debug/net7.0/Banco2.deps.json
+/home/vina/Projetos/dotnet/Banco2/Banco2/bin/Debug/net7.0/Banco2.runtimeconfig.json
+/home/vina/Projetos/dotnet/Banco2/Banco2/bin/Debug/net7.0/Banco2.dll
+/home/vina/Projetos/dotnet/Banco2/Banco2/bin/Debug/net7.0/Banco2.pdb
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/Banco2.GeneratedMSBuildEditorConfig.editorconfig
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/Banco2.AssemblyInfoInputs.cache
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/Banco2.AssemblyInfo.cs
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/Banco2.csproj.CoreCompileInputs.cache
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/Banco2.dll
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/refint/Banco2.dll
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/Banco2.pdb
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/Banco2.genruntimeconfig.cache
+/home/vina/Projetos/dotnet/Banco2/Banco2/obj/Debug/net7.0/ref/Banco2.dll

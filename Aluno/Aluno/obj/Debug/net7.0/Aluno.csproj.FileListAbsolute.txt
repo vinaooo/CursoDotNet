@@ -1,0 +1,14 @@
+/home/vina/Projetos/Aluno/Aluno/bin/Debug/net7.0/Aluno
+/home/vina/Projetos/Aluno/Aluno/bin/Debug/net7.0/Aluno.deps.json
+/home/vina/Projetos/Aluno/Aluno/bin/Debug/net7.0/Aluno.runtimeconfig.json
+/home/vina/Projetos/Aluno/Aluno/bin/Debug/net7.0/Aluno.dll
+/home/vina/Projetos/Aluno/Aluno/bin/Debug/net7.0/Aluno.pdb
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/Aluno.GeneratedMSBuildEditorConfig.editorconfig
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/Aluno.AssemblyInfoInputs.cache
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/Aluno.AssemblyInfo.cs
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/Aluno.csproj.CoreCompileInputs.cache
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/Aluno.dll
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/refint/Aluno.dll
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/Aluno.pdb
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/Aluno.genruntimeconfig.cache
+/home/vina/Projetos/Aluno/Aluno/obj/Debug/net7.0/ref/Aluno.dll
